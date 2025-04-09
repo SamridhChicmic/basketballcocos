@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwMTYwNzAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhkMGY0NkM0MTBBY0QyQ2I2ZEIwMTE5OTQ0NTgzYTQwNDg0MkRmMUM1In0",
+    "payload": "eyJkb21haW4iOiJiYXNrZXRiYWxsLWNvY29zLm5ldGxpZnkuYXBwIn0",
+    "signature": "MHgyOTAyYWQ4MjM0ZDg3MmQ5NjkyMjExMWE5NmZlNjM2ZTBlNzYyNDU0NmUzMTgyNmQ4MjExYTRmOWFlZDc1NDFlNWEzYjM0OWQ2ODNiMGQ4MTI3YzRkN2RhYzkzNmU4YzI2MTM4NmJkNTRjZGZkYzQ3OTk4OGNmODhlMjUxOGJhNTFj"
+  },
+  "frame": {
+    "name": "BasketBall",
+    "version": "1",
+    "iconUrl": "https://basketball-cocos.netlify.app/images/basketball.png",
+    "homeUrl": "https://basketball-cocos.netlify.app",
+    "imageUrl": "https://basketball-cocos.netlify.app/images/basketball.png",
+    "buttonTitle": "Play",
+    "splashImageUrl": "https://basketball-cocos.netlify.app/images/basketball.png",
+    "splashBackgroundColor": "#FFFFFF",
+    "webhookUrl": "https://basketball-cocos.netlify.app/api/webhook"
+  }
+}

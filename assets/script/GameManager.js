@@ -41,7 +41,7 @@ cc.Class({
         // this.collisionManager.enabledDebugDraw = true;
 
         // Correct way to show FPS stats in Creator 2.x
-        cc.debug.setDisplayStats(true);
+        cc.debug.setDisplayStats(false);
     },
 
     newBall: function () {
@@ -104,3 +104,7 @@ cc.Class({
         this.shadowPool.put(shadowNode);
     },
 });
+
+
+
+//

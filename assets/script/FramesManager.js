@@ -26,6 +26,7 @@ cc.Class({
                     [window.base.id]: window.http("https://mainnet.base.org")
                 }
             });
+            this.onConnectWallet()
         } else {
             cc.warn("Missing Frame SDK configuration dependencies.");
         }
